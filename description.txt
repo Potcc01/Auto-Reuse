@@ -1,0 +1,2 @@
+自动重复使用武器
+All weapons' AutoReuse is true now

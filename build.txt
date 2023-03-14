@@ -1,0 +1,9 @@
+displayName = 自动重复使用武器
+author = Potcc
+version = 0.1
+homepage = https://github.com/Potcc01/Auto-Reuse
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = OldArt\*, .git\*
+includePDB = true
